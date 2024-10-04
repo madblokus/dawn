@@ -1,7 +1,5 @@
 ## Describe your changes
 
-## Asana Task link if applicable
-
 ### **New Features**
 
 - **[Feature Name]**: [Description of the new feature]
@@ -17,6 +15,8 @@
 ### **Removed Features**
 
 - **[Feature Name]**: [Reason for removal and any necessary details]
+
+## Asana Task link if applicable
 
 ## Checklist before requesting a review
 - [ ] I have performed a self-review of my code
