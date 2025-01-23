@@ -34,6 +34,10 @@
           "type": "price",
           "settings": {}
         },
+        "rating_nYGjix": {
+          "type": "rating",
+          "settings": {}
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -98,6 +102,7 @@
         "title",
         "caption",
         "price",
+        "rating_nYGjix",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
