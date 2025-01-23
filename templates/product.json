@@ -19,6 +19,12 @@
             "text_style": "uppercase"
           }
         },
+        "sku_hzPR4K": {
+          "type": "sku",
+          "settings": {
+            "text_style": "body"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {}
@@ -72,6 +78,7 @@
       },
       "block_order": [
         "vendor",
+        "sku_hzPR4K",
         "title",
         "caption",
         "price",
@@ -85,7 +92,7 @@
       "settings": {
         "enable_sticky_info": true,
         "color_scheme": "",
-        "media_size": "large",
+        "media_size": "medium",
         "constrain_to_viewport": true,
         "media_fit": "contain",
         "gallery_layout": "thumbnail_slider",
